@@ -1,0 +1,4 @@
+[twitter]
+consumer-key = #Your twitter consumer key
+consumer-secret = #Your Twitter consumer secret token-key = #Your Twitter token key
+token-secret = #Your Twitter token secret
